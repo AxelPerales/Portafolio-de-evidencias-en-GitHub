@@ -1,6 +1,6 @@
 # Script elaborado por la maestra Perla Marlene Viera Honzalez
 # Este script fue modificado por los alumnos: Jairo Santana Garcia,
-# Pablo de Jesus Garcia Medina, Axel Manuel Perales Teofilo
+# Pablo de Jesus Garcia Medina, Axel Manuel Perales Teofilo.
 # Ernesto Jesus Cano Arenas
 from pyhunter import PyHunter
 from openpyxl import Workbook
