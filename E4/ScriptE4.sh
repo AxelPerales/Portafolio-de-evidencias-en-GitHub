@@ -1,4 +1,5 @@
 #!/bin/bash
+#Axel Manuel Perales Teofilo
 function s_o {
   if type -t wevtutil &> /dev/null
   then
