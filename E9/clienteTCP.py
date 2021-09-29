@@ -2,7 +2,7 @@ import argparse
 import socket
 from cryptography.fernet import Fernet
 
-#creacion de argpase
+#creacion de argpase.
 des=""" Cliente TCP
     Modo de usar clienteTCP.py -msj "Mensaje a Enviar" """
 parser = argparse.ArgumentParser(description='Port scanning', epilog=des,
