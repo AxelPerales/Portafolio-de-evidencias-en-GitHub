@@ -13,12 +13,12 @@ import os
 
 #Variables del entorno
 print("Ingresa tus datos. ")
-user = input("Ingresa tu correo electronico: ") # teste14.pc.fcfm@gmail.com
-password = getpass.getpass("Ingresa tu contraseña de correo: ")# 1@2w3E4r
+user = input("Ingresa tu correo electronico: ") #
+password = getpass.getpass("Ingresa tu contraseña de correo: ")#
 
 #cabezara del email
 remitente = ("From, De: $user ")
-destinatario = input("To, Para: ") #7f29d386.uanl.edu.mx@amer.teams.ms
+destinatario = input("To, Para: ") #
 asunto = input("Subject, Asunto: ")
 mensaje = input("Mensaje: ")
 archivo = input("Ruta del archivo: ")
